@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/ebusiness/static/css/main.2fe11546.chunk.css",
+    "main.js": "/ebusiness/static/js/main.5a9d4014.chunk.js",
+    "main.js.map": "/ebusiness/static/js/main.5a9d4014.chunk.js.map",
+    "runtime-main.js": "/ebusiness/static/js/runtime-main.7d74974e.js",
+    "runtime-main.js.map": "/ebusiness/static/js/runtime-main.7d74974e.js.map",
+    "static/css/2.4be38407.chunk.css": "/ebusiness/static/css/2.4be38407.chunk.css",
+    "static/js/2.2fa6e53a.chunk.js": "/ebusiness/static/js/2.2fa6e53a.chunk.js",
+    "static/js/2.2fa6e53a.chunk.js.map": "/ebusiness/static/js/2.2fa6e53a.chunk.js.map",
+    "index.html": "/ebusiness/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/ebusiness/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.2fe11546.chunk.css.map": "/ebusiness/static/css/main.2fe11546.chunk.css.map",
+    "static/js/2.2fa6e53a.chunk.js.LICENSE.txt": "/ebusiness/static/js/2.2fa6e53a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ebusiness/static/media/background.f2e15f07.jpg",
+    "static/media/dslr.87c6ff79.jpg": "/ebusiness/static/media/dslr.87c6ff79.jpg",
+    "static/media/headphone.c90afb99.jpg": "/ebusiness/static/media/headphone.c90afb99.jpg",
+    "static/media/iphone.e75c5d80.jpg": "/ebusiness/static/media/iphone.e75c5d80.jpg",
+    "static/media/microphone.127c27aa.jpg": "/ebusiness/static/media/microphone.127c27aa.jpg",
+    "static/media/perfume.76787854.jpg": "/ebusiness/static/media/perfume.76787854.jpg",
+    "static/media/shoes.969652fb.png": "/ebusiness/static/media/shoes.969652fb.png",
+    "static/media/shoes.df67849e.jpg": "/ebusiness/static/media/shoes.df67849e.jpg",
+    "static/media/watch.c798350a.jpg": "/ebusiness/static/media/watch.c798350a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d74974e.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.2fa6e53a.chunk.js",
+    "static/css/main.2fe11546.chunk.css",
+    "static/js/main.5a9d4014.chunk.js"
+  ]
+}
